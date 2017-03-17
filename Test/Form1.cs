@@ -15,5 +15,9 @@ namespace Test
         {
             InitializeComponent();
         }
+        public void test()
+        {
+
+        }
     }
 }
